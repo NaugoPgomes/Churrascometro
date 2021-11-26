@@ -1,6 +1,6 @@
 # Churrascômetro
 
-![Captura de tela 2021-11-11 111235](https://user-images.githubusercontent.com/80015739/141313276-ae11a37c-9544-40ef-9e1f-458f43012681.png)
+![Captura de tela 2021-11-26 154043](https://user-images.githubusercontent.com/80015739/143620541-326671aa-5262-4a13-ad4e-cb2311ba0e85.png)
 
 ## 📝 informações sobre o projeto 
  O churrascômetro calcula a quantidade de cerveja, carne e refrigerante que vai precisar para o churrasco.
